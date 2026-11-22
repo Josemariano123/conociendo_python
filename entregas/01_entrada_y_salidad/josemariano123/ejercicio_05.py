@@ -1,4 +1,4 @@
-nombre_archivo = "salidad.txt"#definimos el nombre de la variable
+nombre_archivo = "gasto.txt"#definimos el nombre de la variable
 texto_a_guardar = "hola soy mariano"#colocamos el texto donde queremos guardar
 
 with open(nombre_archivo, "w", encoding="utf-8") as archivo:#modo escritura
